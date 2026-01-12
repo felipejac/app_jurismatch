@@ -1,0 +1,18 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+
+# Arquivos de Sistema e Python
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Variáveis de Ambiente e Segredos (MUITO IMPORTANTE)
+.env
+.streamlit/secrets.toml
+api_keys.txt
+
+# Arquivos de IDE
+.vscode/
+.idea/
